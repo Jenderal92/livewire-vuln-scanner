@@ -1,5 +1,8 @@
 # Livewire Passive Vulnerability Scanner
 
+![livewire-vuln-scanner](https://github.com/user-attachments/assets/913ac75c-f5b6-4eca-892b-a0f89c8f9eca)
+
+
 Livewire Passive Vulnerability Scanner is a Python 2.7 tool designed to **passively detect Livewire versions** used by websites and identify potential vulnerabilities based on version comparison.
 
 This scanner **does not exploit** any vulnerability. It only analyzes publicly accessible page content (HTML/JavaScript) to determine the detected Livewire version.
