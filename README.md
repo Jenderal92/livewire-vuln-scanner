@@ -93,5 +93,5 @@ This tool is provided **for educational and authorized security testing purposes
 
 * Use this tool only on systems you own or have explicit permission to test
 * The author assumes **no responsibility** for misuse or illegal activities
-
----
+* 
+More Disclaimer You Can see the disclaimer on the cover of Jenderal92. You can check it [HERE !!!](https://github.com/Jenderal92/)
